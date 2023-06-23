@@ -10,7 +10,7 @@ public class SpringBootController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome to spring jenkins docker example....";
+		return "Welcome to spring jenkins docker example......";
 	}
 
 }
